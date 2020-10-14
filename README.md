@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Find out more about me (with npm installed) :
+Find out more about me (with npm running) :
 ```sh
 $ npx saurabh0719
 ```
