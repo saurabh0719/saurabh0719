@@ -7,7 +7,7 @@ I import, require and include. Big Manchester United fan.
   </p>
   <br>
 
-Languages, tools and frameworks I've used or is currently being used by me :
+Languages, tools and frameworks I've used, past and present :
 <br>
 <p align="center">
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
