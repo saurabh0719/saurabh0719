@@ -19,8 +19,9 @@ Languages, tools and frameworks I've used or is currently being used by me :
 <img src="icons/linux-original.svg" alt="Linux" height="30" style="vertical-align:top; margin:4px">
 
 <img src="icons/c-original.svg" alt="C" height="30" style="vertical-align:top; margin:4px">
-<img src="icons/electron-original.svg" alt="Electron" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/postgresql-plain.svg" alt="Postgres" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/nodejs-plain.svg" alt="NodeJS" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/electron-original.svg" alt="Electron" height="30" style="vertical-align:top; margin:4px">
   
 <img src="icons/html5-plain.svg" alt="HTML5" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/css3-original.svg" alt="CSS3" height="30" style="vertical-align:top; margin:4px">
