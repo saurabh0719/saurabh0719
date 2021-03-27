@@ -8,6 +8,7 @@ I import, require and include. Big Manchester United fan.
   <br>
 
 Languages, tools and frameworks I've used or is currently being used by me :
+<br>
 <p align="center">
 <img src="icons/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
