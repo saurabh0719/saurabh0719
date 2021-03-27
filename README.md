@@ -11,6 +11,22 @@ I import, require and include. Big Manchester United fan.
 <img src="icons/python-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/javascript-original.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="icons/django-plain.svg" alt="Django" height="40" style="vertical-align:top; margin:4px">
+  
+<img src="icons/html5-plain.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/css3-original.svg" alt="CSS3" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/bootstrap-plain.svg" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+
+<img src="icons/c-original.svg" alt="C" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/flutter-original.svg" alt="Flutter" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/angularjs-plain.svg" alt="Angular" height="40" style="vertical-align:top; margin:4px">
+
+<img src="icons/java-original.svg" alt="Java" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/electron-original.svg" alt="Electron" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/postgresql-plain.svg" alt="Postgres" height="40" style="vertical-align:top; margin:4px">
+
+<img src="icons/git-plain.svg" alt="Git" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/amazonwebservices-original.svg" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+<img src="icons/linux-original.svg" alt="Linux" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 <br>
