@@ -6,13 +6,12 @@ Biased towards application development, CLI tooling and scripting. Big Mancheste
 <img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
   </p>
   <br>
-  <br>
  
-<p align="center">
+<!--<p align="center">
 <!--![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true)-->
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" alt="Github readme stats"/>
   </p>
-<br>
+<br>--!>
 
 Languages, tools and frameworks I've used, past and present :
 <br>
