@@ -39,8 +39,14 @@ Languages, tools and frameworks I've used, past and present :
 <img src="icons/angularjs-plain.svg" alt="Angular" height="30" style="vertical-align:top; margin:4px">
 
 </p>
-
 <br>
+
+<p align="center">
+<!--![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true)-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabh0719&langs_count=8&layout=compact" alt="Github language stats"/>
+  </p>
+<br>
+
 
 Find out more about me (with npm installed) :
 ```sh
