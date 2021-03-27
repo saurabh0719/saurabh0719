@@ -8,7 +8,7 @@ Biased towards application development, CLI tooling and scripting. Big Mancheste
   <br>
  
 <!--<p align="center">
-<!--![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true)-->
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true)
   <img src="https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=graywhite&show_icons=true&count_private=true&include_all_commits=true" alt="Github readme stats"/>
   </p>
 <br>--!>
