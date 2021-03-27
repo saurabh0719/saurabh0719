@@ -6,6 +6,9 @@ I import, require and include. Big Manchester United fan.
 <img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
   </p>
   <br>
+  <br>
+  
+![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh0719&theme=greywhite&show_icons=true)
 
 Languages, tools and frameworks I've used, past and present :
 <br>
