@@ -13,7 +13,8 @@ Biased towards application development, CLI tooling and scripting. Big Mancheste
   </p>
 <br>--!>
 
-Languages, tools and frameworks I've used, past and present :
+<p>Languages, tools and frameworks I've used, past and present :</p>
+<br>
 <br>
 <p align="center">
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
