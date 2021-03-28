@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Biased towards application development, CLI tooling and scripting. Big Manchester United fan. 
+Biased towards full stack application development, CLI tooling and scripting. Big fan of Manchester United. 
 
 <p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
 <img class="text-center" src="https://media.giphy.com/media/ui9twqrw0GSA0/giphy.gif" width="300" height="225" />
@@ -13,11 +13,12 @@ Biased towards application development, CLI tooling and scripting. Big Mancheste
   </p>
 <br>--!>
 
-<p>Languages, tools and frameworks I've used, past and present :</p>
+<p>Languages, tools and frameworks I've worked with:</p>
 <br>
 <p align="center">
 <img src="icons/python-original.svg" alt="Python" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/javascript-original.svg" alt="Javascript" height="30" style="vertical-align:top; margin:4px">
+<img src="icons/cplusplus-original.svg" alt="C++" height="30" style="vertical-align:top; margin:4px">
 <img src="icons/django-plain.svg" alt="Django" height="30" style="vertical-align:top; margin:4px">
   
 <img src="icons/git-plain.svg" alt="Git" height="30" style="vertical-align:top; margin:4px">
