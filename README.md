@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+![profile count](https://komarev.com/ghpvc/?username=saurabh0719&color=blue)&nbsp;
+[![GitHub saurabh0719](https://img.shields.io/github/followers/saurabh0719?label=follow&style=social)](https://github.com/saurabh0719)&nbsp;
+<br>
 Biased towards full stack application development, CLI tooling and scripting. Big fan of Manchester United. 
 
 <p align="center" style="box-shadow:0 0 10px 2px rgba(0,0,0,0.06);">
